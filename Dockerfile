@@ -1,11 +1,10 @@
-FROM java:8
+# FROM java:8
 
-COPY . /usr/src/bravecoder
+# COPY . /usr/src/bravecoder
 
-WORKDIR /usr/src/bravecoder
+# WORKDIR /usr/src/bravecoder
 
-RUN java -jar build/libs/bravecoder-1.0-SNAPSHOT-all.jar
-
+# RUN java -jar build/libs/bravecoder-1.0-SNAPSHOT-all.jar
 FROM phusion/baseimage:0.9.15
 
 RUN apt-get update && \
@@ -20,6 +19,6 @@ RUN ansible-galaxy install \
     Ansibles.perl \
     Ansibles.monit \
     ANXS.nginx
-ADD site.yml /srv/ansible/site.yml
+ADD jakatarub/site.yml /srv/ansible/site.yml
 
 CMD ["/sbin/my_init"]
