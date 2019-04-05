@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe081c67-0174-49c9-aab1-1196a62f4859" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example-pubsub/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../__MACOSX/._.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../__MACOSX/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../__MACOSX/src/assets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../__MACOSX/src/assets/github/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/action/selected_pendukung_action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/action/users_action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/adapter/HTTPRequestAdapter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/css/material-dashboard-react.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/angular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/dashboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/edge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/md-react.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/notifications.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/opt_md_angular_thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/opt_md_thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/opt_md_vue_thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/opt_mdr_thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/safari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/tables.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/userprofile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/github/vuejs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/electionlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/faces/marc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/indonesia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/new_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/reactlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/sidebar-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/sidebar-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/sidebar-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/sidebar-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/img/tim_80x80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/cardImagesStyles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/checkboxAdnRadioStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/buttonStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/cardAvatarStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/cardBodyStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/cardFooterStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/cardHeaderStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/cardIconStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/cardStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/customInputStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/customTabsStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/footerStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/headerLinksStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/headerStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/sidebarStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/snackbarContentStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/snackbarWithConfirmationStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/tableStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/tasksStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/components/typographyStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/dropdownStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/layouts/dashboardStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/tooltipStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/views/dashboardStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/jss/material-dashboard-react/views/iconsStyle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Card/Card.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Card/CardAvatar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Card/CardBody.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Card/CardFooter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Card/CardHeader.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Card/CardIcon.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/CustomButtons/Button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/CustomInput/CustomInput.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/CustomTabs/CustomTabs.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Footer/Footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Grid/GridContainer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Grid/GridItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Header/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Header/HeaderLinks.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Sidebar/Sidebar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Snackbar/Snackbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Snackbar/SnackbarContent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Snackbar/SnackbarWithConfirmation.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Table/Table.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Table/TableDetail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Table/TablePaginationAction.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Tasks/Tasks.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Typography/Danger.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Typography/Info.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Typography/Muted.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Typography/Primary.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Typography/Quote.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Typography/Success.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/Typography/Warning.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/components/root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/layouts/Dashboard/Dashboard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/models/PendukungModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/reducer/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/reducer/selected_pendukung_reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/reducer/users_reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/routes/dashboard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/routes/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/store/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/variables/charts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/variables/general.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Dashboard/AdminPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Dashboard/DaftarDukunganPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Dashboard/Dashboard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Dashboard/DetailPendukung.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Dashboard/DukungPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Icons/Icons.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Main/DaftarPendukungTable.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Main/EditProfile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Main/LoginPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Main/RegisterPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Maps/Maps.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Notifications/Notifications.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/Typography/Typography.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/UpgradeToPro/UpgradeToPro.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/UserProfile/UserProfile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-server/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yarn.lock" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#64#65#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="203" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bravecoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bravecoder" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bravecoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bravecoder" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bravecoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bravecoder" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bravecoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bravecoder" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553929966941" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="com.bravecoder.bravecoder.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe081c67-0174-49c9-aab1-1196a62f4859" name="Default Changelist" comment="" />
+      <created>1553603037441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553603037441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="815" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32921812" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921812" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32918397" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32921812" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
